@@ -1,0 +1,130 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    font-family:fantasy;
+
+
+}
+input[type="file"]
+{
+    display: none;
+}
+label:hover
+{
+    background-color: antiquewhite;
+    color: red;
+}
+input[type=submit]
+{
+    border: 5px antiquewhite;
+    padding: 10px 30px;
+    color: red;
+    text-decoration: none;
+    transition: 0.5s ease;
+    font-size: 20px;
+}
+.formcon1:hover
+{
+    background-color: antiquewhite;
+    color: red;
+}
+label{
+    position: absolute;
+    top: -20%;
+    right: 115%;
+    font-size: 35px;
+    border: 5px antiquewhite;
+    padding: 10px 30px;
+    color: red;
+    text-decoration: none;
+    transition: 0.5s ease;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-image: url("/static/3349357.webp");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.background
+{
+    background-image: url("C:\Users\NAWAB-PC\project_pai\static\3349357.webp");
+    background-image: url("/static/3349357.webp");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.title
+{
+    color:antiquewhite;
+    position: absolute;
+    top: 35%;
+    right: 20%;
+    
+}
+.title1
+{
+    color:antiquewhite;
+    position: absolute;
+    top: 25%;
+    right: 40%;
+}
+h1{
+    text-align: center;
+    
+}
+.title h1{
+    font-size: 70px;
+    position: relative;
+}
+.title1 h1{
+    font-size: 70px;
+    
+}
+.button
+{
+    position: absolute;
+    top: 65%;
+    right: 35%;
+    font-size: 30px;
+}
+.nayabutton
+{
+    position: absolute;
+    top: 65%;
+    right: 0%;
+    font-size: 30px;
+}
+.nayabtn
+{
+    border: 5px antiquewhite;
+    padding: 10px 30px;
+    color: red;
+    text-decoration: none;
+    transition: 0.5s ease;
+}
+.btn{
+ 
+    border: 5px antiquewhite;
+    padding: 10px 30px;
+    color: red;
+    text-decoration: none;
+    transition: 0.5s ease;
+    
+
+}
+.nayabtn:hover
+{
+    background-color: antiquewhite;
+    color: red;
+}
+.btn:hover
+{
+    background-color: antiquewhite;
+    color: red;
+}
